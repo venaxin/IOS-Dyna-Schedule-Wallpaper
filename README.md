@@ -1,6 +1,6 @@
 # Dynamic Calendar Wallpaper for iOS
 
-![Final Wallpaper Showcase]((https://photos.app.goo.gl/zSMHbrN3Auc1bX2R7))
+<img src="https://github.com/user-attachments/assets/de22be50-b329-4ac0-ad46-d59d3913f027" alt="Final Wallpaper Showcase" width="350"/>
 
 A powerful, fully automated iOS Shortcut that generates a new lock screen wallpaper every day, displaying your upcoming schedule directly over a background image of your choice.
 
