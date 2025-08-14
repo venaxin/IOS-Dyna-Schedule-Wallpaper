@@ -33,7 +33,7 @@ Before you install the shortcut, you need to have your calendar set up on your i
 ### Step 2: Install the Shortcut
 
 1.  Click the link below to download and add the shortcut to your Shortcuts app.
-    *(You would replace this text with the iCloud sharing link for your shortcut)*
+    *(https://www.icloud.com/shortcuts/39cb4da735d14c5ea922b2c6c695f5e0)*
     **[Download the Shortcut Here]**
 2.  When prompted, tap **"Add Shortcut"**.
 
