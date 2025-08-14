@@ -33,8 +33,7 @@ Before you install the shortcut, you need to have your calendar set up on your i
 ### Step 2: Install the Shortcut
 
 1.  Click the link below to download and add the shortcut to your Shortcuts app.
-    *(https://www.icloud.com/shortcuts/39cb4da735d14c5ea922b2c6c695f5e0)*
-    **[Download the Shortcut Here]**
+    [**Download the Shortcut Here**](https://www.icloud.com/shortcuts/39cb4da735d14c5ea922b2c6c695f5e0)
 2.  When prompted, tap **"Add Shortcut"**.
 
 ### Step 3: Configure the Shortcut
@@ -43,11 +42,11 @@ You need to tell the shortcut where to find your photos and calendar events.
 
 1.  Open the **Shortcuts** app and find the "Dynamic Calendar Wallpaper" shortcut. Tap the three dots (**...**) on the shortcut to open the editor.
 2.  **Select Your Photo Album:**
-    -   Scroll down to the action that says **`Find Photos where Album is [Album Name]`**.
-    -   Tap on the blue `[Album Name]` and select the photo album you created in Step 1.
+    - Scroll down to the action that says **`Find Photos where Album is [Album Name]`**.
+    - Tap on the blue `[Album Name]` and select the photo album you created in Step 1.
 3.  **Select Your Calendar:**
-    -   Scroll further down to the action that says **`Find Calendar Events where Calendar is [Calendar Name]`**.
-    -   Tap on the blue `[Calendar Name]` and select the specific calendar you want to pull events from (e.g., your Gmail account).
+    - Scroll further down to the action that says **`Find Calendar Events where Calendar is [Calendar Name]`**.
+    - Tap on the blue `[Calendar Name]` and select the specific calendar you want to pull events from (e.g., your Gmail account).
 4.  Tap **"Done"** at the top right to save your changes.
 
 ### Step 4: Set Up the Daily Automation
@@ -76,9 +75,9 @@ You can easily change the appearance of the text by editing the CSS code.
 1.  Open the shortcut editor.
 2.  Find the first **`Text`** action, which contains the `<style>` block.
 3.  You can change values like:
-    -   `font-size`: Make the text bigger or smaller.
-    -   `color`: Change the text color (e.g., `black`, `#FF5733`).
-    -   `text-shadow`: Adjust the shadow for readability.
+    - `font-size`: Make the text bigger or smaller.
+    - `color`: Change the text color (e.g., `black`, `#FF5733`).
+    - `text-shadow`: Adjust the shadow for readability.
 
 ---
 
